@@ -4,8 +4,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="250px" height="250px" viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve">
-<script type="text/ecmascript" xlink:href="vivus.js" /> 
-<script type="text/ecmascript" xlink:href="script.js" /> 
+	 <script type="text/ecmascript" xlink:href="script.js" /> 
 <path id="path_V" class="V path_class" fill="#CA0029" d="M181.809,124.414h-61.321v6.872c0,0,11.852,0.176,18.195,3.171c6.345,2.995,12.224,6.824,20.152,23.034
 	c7.932,16.212,80.596,218.095,80.596,218.095h24.313l77.005-210.298c0,0,5.021-20.086,14.709-26.428
 	c9.689-6.343,20.129-7.575,24.054-7.398v-7.048h-47.578l-75.767,204.131L181.809,124.414z"/>
