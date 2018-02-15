@@ -14,9 +14,7 @@ path.V {
 	100% {transform: scale(1) rotateY(0deg);}
 }
 
-svg path:hover {
-	-webkit-filter:drop-shadow(-3px -3px 12px blue);
-}
+
 
 path.F {
 	animation-name: rotateF;
